@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>Inserindo Efeitos</title>
+	<head/>
+
+	<body>
+		<p><font face="verdana" size="3" color="FF00001">Inserindo efeitos na minha página <i>web</i></font>.</p>
+		<P>Nome: <b>Mauricio Oliveira Rodrigues</b>
+		<BR>Data de nascimento: <u>06/04/2003</u></P>
+		<hr>
+		<P>Muito legal!</P>
+		<hr>
+	</body>
+</html>
